@@ -1,0 +1,20 @@
+.contact article h4 {
+  color: var(--colorVerde);
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.contact article p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.contact article p a {
+  color: rgb(136, 136, 136);
+}
+
+.contact article p b,
+article p a {
+  font-weight: 500;
+}
