@@ -1,0 +1,6 @@
+
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /users/about
+El usuario ingreso a la ruta: /users/music
+El usuario ingreso a la ruta: /users/contact
+El usuario ingreso a la ruta: /users/login

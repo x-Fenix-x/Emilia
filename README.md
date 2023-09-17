@@ -16,3 +16,8 @@ Proyecto construido en Express que gira alrededor de crear el sitio web de una c
 - Uso de partials.
 - Manejo de rutas.
 - Uso de controladores.
+
+### Etapa 3
+
+- Middleware admin para que accedan desde login los usuarios con privilegios.
+- Middleware Logs que registra las páginas visitadas.
