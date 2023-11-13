@@ -1,6 +1,6 @@
 # Emilia
 
-Proyecto construido en Express que gira alrededor de crear el sitio web de una cantante.
+Proyecto construido en Express que gira alrededor de crear el sitio web de una artista.
 
 ### Etapa 1
 
